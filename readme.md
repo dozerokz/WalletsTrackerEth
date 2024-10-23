@@ -1,6 +1,6 @@
 # ETH Wallets Tracked (ERC-20)
 
-This is a Go-based utility to monitor Ethereum wallets ERC-20 and send notifications via Discord webhooks. It tracks ERC-20 transactions and internal transactions, providing detailed messages for buys/sells with token and ETH values.
+This is a Go-based utility to monitor Ethereum wallets ERC-20 swaps and send notifications via Discord webhooks. It tracks ERC-20 transactions and internal transactions, providing detailed messages for buys/sells with token and ETH values.
 
 The logic might not be perfect, but I hope this project can be useful to someone looking to track wallet transactions and trigger notifications.
 
